@@ -1,5 +1,17 @@
 # Awesome DeepSeek Harness (DSH) Plugin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![awesome · DSH plugin](https://awesome-dsh-plugin.com/badge.svg) ![插件数量](https://img.shields.io/endpoint?url=https%3A%2F%2Fawesome-dsh-plugin.com%2Fcount.json&label=%E6%8F%92%E4%BB%B6)
 
+[← 桌面端与安装包](https://github.com/Missher12/Missher-DeepseekHarness-Desktop) · [全部插件](https://github.com/Missher12/Missher-DeepseekHarness-Desktop/blob/main/plugins/README.zh.md) · [通用安装指南](https://github.com/Missher12/Missher-DeepseekHarness-Desktop/blob/main/docs/cookbook/install-cordis-plugins.zh.md)
+
+## 当前入口与本仓库用途
+
+这是社区插件目录的协作副本，作用是发现和提交插件条目。它不提供 Missher 桌面安装包，也不包含这些插件的源码；目录收录不等于当前版本兼容性验收。
+
+- 安装或更新应用：前往[桌面下载](https://github.com/Missher12/Missher-DeepseekHarness-Desktop#downloads)。
+- 选择功能扩展：前往[独立插件目录](https://github.com/Missher12/Missher-DeepseekHarness-Desktop/blob/main/plugins/README.zh.md)。
+- 阅读下面的旧文档时，请同时核对它对应的版本、平台和日期。
+
+---
+
 [![Awesome DSH Plugin](https://awesome-dsh-plugin.com/banner-zh.png)](https://awesome-dsh-plugin.com/zh/)
 
 [English](README.md) | 中文
