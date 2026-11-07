@@ -2,6 +2,8 @@
 
 <h1>DSH Plugin Catalog · 社区插件目录</h1>
 
+<p><img src="images/overview.svg" alt="Plugin Catalog 功能示意" width="100%"></p>
+
 <p>发现社区插件、查看分类，并为目录补充可核对的项目条目。</p>
 
 <p>
