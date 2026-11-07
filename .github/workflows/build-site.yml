@@ -51,6 +51,9 @@ concurrency:
 
 jobs:
   build:
+    # This job publishes the upstream website and npm catalogs. A collaboration
+    # fork keeps its directory but does not own those publication targets.
+    if: github.repository == 'awesome-dsh-plugin/awesome-dsh-plugin'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
