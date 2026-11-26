@@ -83,7 +83,7 @@
 
 ## 搭配使用
 
-[Missher 桌面主仓](https://github.com/Missher12/Missher-DeepseekHarness-Desktop) 是当前维护插件的统一入口；[机器可读清单](https://github.com/Missher12/Missher-DeepseekHarness-Desktop/blob/main/plugins/catalog.json) 适合自动化读取。
+[Missher 桌面主仓](https://github.com/Missher12/Missher-DeepseekHarness-Desktop) 是当前维护插件的统一入口；[机器可读清单](https://github.com/Missher12/Missher-DeepseekHarness-Desktop/blob/main/plugins/catalog.json) 适合自动化读取。 · [一键安装清单](https://github.com/Missher12/Missher-DeepseekHarness-Desktop/blob/main/plugins/install-set.json)
 
 ## 升级与数据
 

@@ -7,7 +7,7 @@
 这是社区插件目录的协作副本，作用是发现和提交插件条目。它不提供 Missher 桌面安装包，也不包含这些插件的源码；目录收录不等于当前版本兼容性验收。
 
 - 安装或更新应用：前往[桌面下载](https://github.com/Missher12/Missher-DeepseekHarness-Desktop#downloads)。
-- 选择功能扩展：前往[独立插件目录](https://github.com/Missher12/Missher-DeepseekHarness-Desktop/blob/main/plugins/README.zh.md)。
+- 选择功能扩展：前往[独立插件目录](https://github.com/Missher12/Missher-DeepseekHarness-Desktop/blob/main/plugins/README.zh.md)，或查看[已核对的 12 款公开插件安装包](https://github.com/Missher12/Missher-DeepseekHarness-Desktop/blob/main/plugins/install-set.json)。
 - 阅读下面的旧文档时，请同时核对它对应的版本、平台和日期。
 
 ---
